@@ -1,4 +1,5 @@
 # Tailwind Grid Cards
+![Screenshot from 2025-05-31 11 38 34](https://github.com/user-attachments/assets/3a36ca13-59b7-4996-a183-ee70392f1fe9)
 
 A simple and modern web component that displays data in a responsive grid layout using Tailwind CSS.
 
